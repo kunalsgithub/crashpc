@@ -1,2 +1,2 @@
 # crash
-Simple executable made in C to crash your PC.
+Crash Someone's Pc very easly
